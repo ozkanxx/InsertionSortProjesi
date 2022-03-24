@@ -1,0 +1,2 @@
+# InsertionSortProjesi
+Patika dev InsertSortProjesi 
